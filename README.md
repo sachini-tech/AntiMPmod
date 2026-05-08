@@ -138,17 +138,6 @@ Analysis of modified AMP and non-AMP structures revealed:
 
 ---
 
-## Applications
-
-* Prediction of antimicrobial activity for chemically modified peptides
-* Rational design of modified AMP analogs with enhanced stability and potency
-* Screening of peptide libraries containing non-natural and D-amino acid residues
-* Drug discovery pipeline for antibiotic-resistant pathogen combat
-* Research on modification strategies that enhance antimicrobial properties (acetylation, amidation, glycosylation, halogenation)
-* Integration with PEPstrMOD for end-to-end modified peptide design and evaluation
-
----
-
 ## Contact & Authors
 
 **Prof. Gajendra P. S. Raghava**
@@ -158,12 +147,11 @@ New Delhi, India
 http://webs.iiitd.edu.in/raghava/
 
 **Piyush Agrawal**
-CSIR-Institute of Microbial Technology, Chandigarh, India
+CSIR-Institute of Microbial Technology, Chandigarh,
 Center for Computational Biology, IIIT Delhi, India
 
-Developed at **CSIR-Institute of Microbial Technology (IMTECH), Chandigarh** and **IIIT Delhi, India**
-
----
+ 
+ 
 
 ## License
 
