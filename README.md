@@ -153,7 +153,7 @@ Analysis of modified AMP and non-AMP structures revealed:
 
 **Prof. Gajendra P. S. Raghava**
 raghava@iiitd.ac.in
-Center for Computational Biology, Indraprastha Institute of Information Technology (IIIT Delhi)
+Indraprastha Institute of Information Technology (IIIT Delhi)
 New Delhi, India
 http://webs.iiitd.edu.in/raghava/
 
@@ -172,13 +172,5 @@ This tool is distributed under the terms of the
 © 2018 Agrawal and Raghava.
 Use, distribution, or reproduction in other forums is permitted provided the original authors and publication are credited.
 
----
-
-## Acknowledgements
-
-Supported by:
-
-* Department of Science and Technology (DST-INSPIRE) Fellowship
-* J. C. Bose National Fellowship, Department of Science and Technology (DST)
-
+ 
 We acknowledge all researchers whose published work on antimicrobial and chemically modified peptides contributed to this dataset, and the developers of SATPDB, PEPstrMOD, PaDEL, and OpenBabel tools used in this study.
