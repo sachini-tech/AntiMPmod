@@ -147,7 +147,6 @@ New Delhi, India
 http://webs.iiitd.edu.in/raghava/
 
 **Piyush Agrawal**
-CSIR-Institute of Microbial Technology, Chandigarh,
 Center for Computational Biology, IIIT Delhi, India
 
  
