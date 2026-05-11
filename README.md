@@ -3,8 +3,7 @@
 Welcome to the official repository for AntiMPmod, a computational method and web server for predicting the antimicrobial potential of chemically modified peptides from their tertiary structures. This resource is designed to support researchers in peptide therapeutics, antimicrobial drug discovery, and computational chemistry.
 
 **Web Server:** http://webs.iiitd.edu.in/raghava/antimpmod/
-**Structure Prediction Server (PEPstrMOD):** http://webs.iiitd.edu.in/raghava/pepstrmod/
-**Standalone (Docker):** Pull image `raghavagps/gpsraghava` and run PERL code from the `gpsr` folder
+ZENODO : https://doi.org/10.5281/zenodo.20083476
 
 ---
 
